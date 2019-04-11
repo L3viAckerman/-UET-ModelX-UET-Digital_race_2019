@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/nvidia/catkin_ws/devel/include",
+        "/opt/ros/lunar/include",
+        "/home/nvidia/catkin_ws/src/UET_ModelX/include",
+        "/home/nvidia/catkin_ws/src/astra_camera/include",
+        "/home/nvidia/catkin_ws/src/car_control/include",
+        "/home/nvidia/catkin_ws/src/car_controller/include",
+        "/home/nvidia/catkin_ws/src/car_test/include",
+        "/home/nvidia/catkin_ws/src/detect_lane/include",
+        "/home/nvidia/catkin_ws/src/detect_traffic_sign/include",
+        "/home/nvidia/catkin_ws/src/hmm/include",
+        "/home/nvidia/catkin_ws/src/key_release/include",
+        "/home/nvidia/catkin_ws/src/localize/include",
+        "/home/nvidia/catkin_ws/src/rt_usb_9axisimu_driver/include",
+        "/usr/include"
+      ],
+      "name": "Linux"
+    }
+  ]
+}
